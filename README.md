@@ -1,3 +1,3 @@
 # Hello! I am Pyero Zarate 😀
 
-![Github followers](https://github.com/GNUEvangelist?tab=followers)
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=horizontal&limit=2)](https://medium.com/@Souravdey777)
