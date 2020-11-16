@@ -1,3 +1,3 @@
 # Hello! I am Pyero Zarate 😀
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=horizontal&limit=2)](https://medium.com/@Souravdey777)
+[![dannyverp's github stats](https://github-readme-stats.vercel.app/api?username=dannyverp&show_icons=true&theme=default)](https://github.com/dannyverp/)
