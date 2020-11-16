@@ -1,4 +1,3 @@
-# Hi! 😀
+# Hello! I am Pyero Zarate 😀
 
-### I am Pyero Zarate
-![Python]()
+![Github followers]()
