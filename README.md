@@ -2,4 +2,8 @@
 
 ![photo](https://gnuevangelist.github.io/Pyero-s-blog/foto.png)
 
-[![GNUEvangelist's github stats](https://github-readme-stats.vercel.app/api?username=GNUEvangelist&show_icons=true&theme=default)](https://github.com/GNUEvangelist/)
+### about me 🙇
+#### I'm 15 years old. 🙍
+#### For me, programing is an art. 🎨
+#### I love Free software for its philosophy. 
+![GNU](https://static.fsf.org/nosvn/logos/campaigns_gnu.small.png)
